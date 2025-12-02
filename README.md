@@ -1,2 +1,2 @@
-# knot-site
-Site knot.cesar.org.br
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
